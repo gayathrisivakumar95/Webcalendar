@@ -1,0 +1,8 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "year1" : 2019,
+  "year2" : 2020,
+  "URL"  : "https://www.timeanddate.com/calendar/"
+}
